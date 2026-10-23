@@ -26,5 +26,3 @@ const immaginiData = [
 ];
 
 
-
-
